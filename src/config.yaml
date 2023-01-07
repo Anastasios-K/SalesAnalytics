@@ -1,0 +1,3 @@
+paths:
+  data_path: "C:\\Users\\Anast\\pythonProject\\Sales_Visual_Analytics\\data\\Sales.xls"
+  path2save: "C:\\Users\\Anast\\pythonProject\\Sales_Visual_Analytics\\figures"
