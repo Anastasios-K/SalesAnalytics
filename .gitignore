@@ -1,6 +1,4 @@
 venv/
 .idea/*
 *.html
-creditcard.csv
-fraud_detection_data.csv
-titanic.csv
+*.txt
